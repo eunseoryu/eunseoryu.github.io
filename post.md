@@ -12,6 +12,6 @@ tags:
 
   - Blog
 
-last_modified_at: { page.last_modified_at }
+last_modified_at: 
 
 ---
